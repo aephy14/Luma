@@ -1,0 +1,25 @@
+--- 
+title: 'Luma - Blog'
+layout: 'base.njk'
+pageDescription: "Luma is a website that sell vegan canned products"
+---
+
+<section>
+    <div class="container">
+        <div class="blog-section-wrapper section-wrapper">
+            <div class="blog-section">
+            {%- for post in collections.post | reverse -%}
+                <a href="{{ post.url }}" class="blog_post_url">
+                    <article>
+                        <div class="blog-container">
+                            <h2 class="">{{ post.data.title }}</h2>
+                            <p class="meta-date">Date {{post.data.date | postDate }}</p>
+                            <p class="meta-description">{{ post.data.description }}</p>
+                        </div>
+                    </article>
+                </a>
+            {%- endfor -%}
+            </div>
+        </div>
+    </div>
+</section>    

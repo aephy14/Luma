@@ -1,0 +1,49 @@
+<div class="headers-wrapper">
+
+  <!-- Desktop Header -->
+    <header class="desktop-header mobile-display-none">
+      <div class="menu-left">
+        <nav>
+          <a href="/contact">Contact</a>
+          <a href="/about">About</a>
+        </nav>
+      </div>
+      <div class="logo">
+          <a href="/">
+              <img src="/assets/images/logo-360w.webp" fetchpriority="high" width="170" alt="LUMA">
+          </a>
+      </div>
+      <div class="menu-right">
+        <nav>
+          <a href="/products">Products</a>
+          <a href="/orders">Order</a>
+        </nav>
+      </div>
+    </header>
+  
+    <!-- Mobile Header -->
+    <header class="mobile-header desktop-display-none">
+      <div class="logo">
+          <a href="/">
+              <img src="/assets/images/logo-360w.webp"  fetchpriority="high" width="170" height="133" alt="LUMA">
+          </a>
+      </div>
+      <div class="hamburger" onclick="toggleMenu()">☰</div>
+    </header>
+  
+    <!-- Offcanvas Menu -->
+    <div class="offcanvas" id="offcanvas">
+      <div class="close-btn" onclick="toggleMenu()">✖</div>
+      <div class="logo">
+          <a href="/">
+              <img src="/assets/images/logo-360w.webp" fetchpriority="high" width="170" height="113" alt="LUMA">
+          </a>
+      </div>
+      <nav>
+        <a href="/contact">Contact</a>
+        <a href="/about">About</a>
+        <a href="/products">Products</a>
+        <a href="/orders">Order</a>
+      </nav>
+    </div>
+</div>

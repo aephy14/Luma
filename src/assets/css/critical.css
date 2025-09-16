@@ -1,0 +1,175 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --primary-color: #657323;
+  --text-primary-color: #c0c1ff;
+  --secondary-color: #262e01;
+  --font-family: "DM Sans";
+  --heading-font-size: 64px;
+  --subheading-size: 48px;
+  --text-font-size: 40px;
+}
+body {
+  font-family: var(--font-family);
+  background-color: var(--primary-color);
+  position: relative;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-primary-color);
+  position: relative;
+  min-height: 198px;
+  gap: 103px;
+}
+header a {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+header .menu-left,
+header .menu-right {
+  margin-top: -25px;
+}
+img {
+  width: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span {
+  font-family: var(--font-family);
+}
+a {
+  text-decoration: none;
+  color: var(--text-primary-color);
+  font-size: var(--text-font-size);
+}
+a:hover {
+  text-decoration: underline;
+}
+p {
+  font-size: var(--text-font-size);
+  color: var(--text-primary-color);
+}
+
+.logo {
+  max-width: 311px;
+  height: auto;
+  width: 100%;
+}
+
+nav {
+  display: flex;
+  gap: 80px;
+}
+
+.menu-left,
+.menu-right {
+  display: flex;
+  gap: 15px;
+}
+
+/* Desktop layout */
+.desktop-header {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* Mobile layout */
+.mobile-header {
+  display: none;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  margin-inline: auto;
+}
+.mobile-header .logo {
+  max-width: 170px;
+}
+
+.hamburger {
+  font-size: var(--subheading-size);
+  cursor: pointer;
+}
+
+/* Offcanvas */
+.offcanvas {
+  position: fixed;
+  top: 0;
+  left: -255px;
+  width: 250px;
+  height: 100%;
+  background: var(--secondary-color);
+  outline: 4px solid #fff;
+  color: white;
+  padding: 20px;
+  transition: left 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  z-index: 9;
+}
+
+.offcanvas.active {
+  left: 0;
+}
+
+.offcanvas .close-btn {
+  align-self: flex-end;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.offcanvas nav {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.container {
+  max-width: 1304px;
+  width: 100%;
+  margin-inline: auto;
+}
+.section-wrapper {
+  padding-block: 80px;
+}
+.hero-section-wrapper {
+  padding-top: 20px;
+}
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(321px, 1fr));
+  gap: 20px;
+}
+.product .products-header {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  padding-block-end: 30px;
+}
+.product .products-header .product-title {
+  writing-mode: sideways-lr;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+.outlined-text {
+  color: #657323;
+  background-color: var(--text-primary-color);
+  background-clip: text;
+  -webkit-text-stroke-color: transparent;
+  -webkit-text-stroke-width: 6px;
+  -webkit-background-clip: text;
+}

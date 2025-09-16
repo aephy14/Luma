@@ -1,0 +1,111 @@
+
+/* Responsive rules */
+@media (max-width: 991px) {
+  .desktop-header {
+    display: none;
+  }
+  .mobile-header {
+    display: flex;
+  }
+}
+@media (max-width: 768px) {
+  .products-grid {
+    grid-template-columns: 1fr;
+    justify-self: anchor-center;
+  }
+  .products-section-wrapper.products-page .products-grid {
+    gap: 130px;
+  }
+  .product-readMore {
+    width: 100%;
+  }
+  .footer-wrapper {
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    padding-inline: 0px;
+  }
+  .footer-wrapper .footer-navigation ul {
+    gap: 15px;
+  }
+  .product {
+    width: 90%;
+    margin-inline: auto;
+  }
+  .product-description .text:first-child {
+    min-height: 400px;
+  }
+  .product_1,
+  .product_2,
+  .product_3 {
+    text-align: center;
+  }
+  .product .products-header {
+    grid-template-columns: 110px 300px;
+    justify-content: center;
+  }
+  .order-form button {
+    margin: 20px auto;
+  }
+  .form-group:has(.outlined-text) {
+    margin-top: 10px;
+    border: 2px solid var(--text-primary-color);
+    border-radius: 10px;
+  }
+  .blog-container h2 {
+    font-size: 42px;
+    line-height: 40px;
+  }
+  .blog-container p {
+    font-size: 32px;
+    line-height: 36px;
+  }
+}
+
+@media (max-width: 576px) {
+  :root {
+    --heading-font-size: 38px;
+    --subheading-size: 33px;
+    --text-font-size: 28px;
+  }
+  header {
+    min-height: 80px;
+  }
+  .hero-section {
+    padding-inline: 20px;
+  }
+  .blog-container {
+    margin-bottom: 50px;
+  }
+  .footer-wrapper .footer-navigation a {
+    font-size: 18px;
+    padding-inline: 2px;
+  }
+  .terms-section-wrapper,
+  .privacy-section-wrapper,
+  .orders-section-wrapper,
+  .blog-section-wrapper,
+  .post-section-wrapper {
+    padding-inline: 32px;
+  }
+  .blog-container h2 {
+    font-size: 28px;
+    line-height: 24px;
+  }
+  .blog-container p {
+    font-size: 18px;
+    line-height: 16px;
+  }
+  .product-image {
+    width: 250px;
+  }
+  .product .products-header .product-title h2 {
+    line-height: 37px;
+  }
+  .footer-wrapper .footer-navigation {
+    margin-top: 0px;
+  }
+  .product .products-header {
+    grid-template-columns: 40px 266px;
+  }
+}

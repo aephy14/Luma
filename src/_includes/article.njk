@@ -1,0 +1,19 @@
+---
+layout: 'base.njk'
+---
+
+
+<article>
+    <div class="container">
+        <div class="post-section-wrapper section-wrapper">
+            <div class="single-post-section">
+                <h1 class="blog-title">{{ title }}</h1>
+                <p class="blog-metadata">by {{ author }} on {{ date | postDate }}</p>
+                <div class="post_main_contains">
+                    {{ content | safe }}
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<div class="large-space"></div>
