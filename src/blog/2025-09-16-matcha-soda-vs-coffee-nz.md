@@ -36,8 +36,8 @@ One of the biggest questions I get is:
 
 It’s a great question. Let’s break it down:  
 
-- A **double shot coffee** in NZ usually contains **around 120–150 mg of caffeine**.  
-- A serving of **matcha soda** (depending on how much matcha powder is used) typically has **60–80 mg of caffeine**.  
+A **double shot coffee** in NZ usually contains **around 120–150 mg of caffeine**.  
+A serving of **matcha soda** (depending on how much matcha powder is used) typically has **60–80 mg of caffeine**.  
 
 So yes, coffee has more caffeine per serving. But here’s the difference: matcha caffeine is paired with **L-theanine**, a naturally occurring amino acid.  
 
@@ -47,10 +47,10 @@ The Role of L-Theanine
 
 L-theanine is the secret weapon in matcha. Scientifically proven to:  
 
-- Promote **calm focus**  
-- Reduce the jittery feeling caffeine sometimes causes  
-- Support **alpha brain waves**, linked with relaxation and alertness  
-- Help your body **metabolise caffeine more slowly**  
+Promote **calm focus**  
+Reduce the jittery feeling caffeine sometimes causes  
+Support **alpha brain waves**, linked with relaxation and alertness  
+Help your body **metabolise caffeine more slowly**  
 
 That means instead of a spike-and-crash, you get **sustained energy for 4–6 hours**. When I drink **Luma Matcha Soda**, I don’t feel that anxious buzz. Instead, I feel clear-headed, sharp, and steady.  
 
@@ -64,10 +64,10 @@ I used to be hooked on soft drinks. The sugar, the fizz — it was addictive. Bu
 
 Switching to matcha soda wasn’t just about caffeine. It was about **breaking the cycle**. With organic matcha powder, I get:  
 
-- A natural source of energy  
-- Antioxidants like **EGCG** (epigallocatechin gallate)  
-- Vitamins and minerals straight from the tea leaf  
-- A refreshing taste that doesn’t feel heavy  
+A natural source of energy  
+Antioxidants like **EGCG** (epigallocatechin gallate)  
+Vitamins and minerals straight from the tea leaf  
+A refreshing taste that doesn’t feel heavy  
 
 It felt like replacing a bad habit with a genuinely healthy ritual. And since we source **organic matcha powder NZ** drinkers can trust, it means clean energy without compromise.  
 
@@ -79,10 +79,10 @@ In New Zealand, the most common introduction to matcha is through a **matcha lat
 
 That’s where **matcha soda** comes in. It’s:  
 
-- **Light, fizzy, and refreshing**  
-- Dairy-free (great if you’re avoiding milk)  
-- Lower in calories than most lattes  
-- Perfect for summer afternoons or post-work pick-me-ups  
+**Light, fizzy, and refreshing**  
+Dairy-free (great if you’re avoiding milk)  
+Lower in calories than most lattes  
+Perfect for summer afternoons or post-work pick-me-ups  
 
 Think of it like this: if a matcha latte is comfort food, **matcha soda is the everyday energy drink alternative**.  
 
@@ -92,9 +92,9 @@ Organic Matcha Powder: Quality Matters
 
 Not all tea powder is created equal. When we developed **Luma Matcha Soda**, I was obsessed with sourcing the best **organic matcha**. Why? Because quality makes all the difference:  
 
-- High-grade matcha is **vibrant green**, not dull brown.  
-- It tastes **smooth and slightly sweet**, not bitter.  
-- Organic certification means **no synthetic pesticides or additives**.  
+High-grade matcha is **vibrant green**, not dull brown.  
+It tastes **smooth and slightly sweet**, not bitter.  
+Organic certification means **no synthetic pesticides or additives**.  
 
 When you drink it, you’re getting clean, natural energy — exactly what I wanted in a daily ritual. Whether you buy **matcha powder NZ** from a store or online, the quality will directly affect the taste and health benefits.  
 
@@ -104,8 +104,8 @@ How Much Caffeine in a Double Shot Coffee vs. Matcha?
 
 Let’s revisit the caffeine question, because it’s one of the most Googled comparisons in NZ:  
 
-- **Double shot coffee**: ~120–150 mg caffeine  
-- **Matcha (1–2g powder)**: ~60–80 mg caffeine  
+**Double shot coffee**: ~120–150 mg caffeine  
+**Matcha (1–2g powder)**: ~60–80 mg caffeine  
 
 Here’s the kicker: even though coffee has more caffeine, people often feel *better* on matcha because of the **slower absorption**. Thanks to theanine, caffeine is released gradually, avoiding that sudden heart-race and crash.  
 
@@ -121,11 +121,12 @@ This is probably the second most common question I get after caffeine comparison
 
 Here’s how I describe it:  
 
-- Earthy and grassy, like a walk through a fresh green garden  
-- Slightly sweet and umami, thanks to the amino acids  
-- Smooth, not bitter (if it’s high quality)  
+Earthy and grassy, like a walk through a fresh green garden  
+Slightly sweet and umami, thanks to the amino acids  
+Smooth, not bitter (if it’s high quality)  
 
-When blended into soda, that flavor profile lightens up. It becomes crisp, refreshing, and surprisingly addictive. For anyone in Auckland or elsewhere in NZ wondering if they’ll like it, I always say: if you enjoy green tea, you’ll love matcha soda.  
+When blended into soda, that flavor profile lightens up. It becomes crisp, refreshing, and surprisingly addictive. 
+For anyone in Auckland or elsewhere in NZ wondering if they’ll like it, I always say: if you enjoy green tea, you’ll love matcha soda.  
 
 ---
 
@@ -135,9 +136,9 @@ Every morning, I crack open a **Luma Matcha Soda** instead of brewing coffee. By
 
 Over time, I noticed:  
 
-- Better focus during long work sessions  
-- Fewer 3pm crashes  
-- A calm sense of energy that lasted through the evening  
+Better focus during long work sessions  
+Fewer 3pm crashes  
+A calm sense of energy that lasted through the evening  
 
 It became more than a drink. It became part of my lifestyle.  
 
@@ -163,10 +164,10 @@ Health Benefits of Matcha (Legit, Backed by Research)
 
 I’m careful about health claims, but here’s what scientific studies actually support about **matcha and green tea**:  
 
-- **Rich in antioxidants**: Matcha contains up to 137x more antioxidants than standard green tea.  
-- **Supports metabolism**: Compounds like EGCG may help with fat oxidation.  
-- **Promotes focus**: The combination of caffeine and theanine improves cognitive performance.  
-- **Heart health**: Green tea consumption has been linked with cardiovascular benefits.  
+**Rich in antioxidants**: Matcha contains up to 137x more antioxidants than standard green tea.  
+**Supports metabolism**: Compounds like EGCG may help with fat oxidation.  
+**Promotes focus**: The combination of caffeine and theanine improves cognitive performance.  
+**Heart health**: Green tea consumption has been linked with cardiovascular benefits.  
 
 These aren’t miracle promises. They’re real, evidence-based benefits — and they’re exactly why matcha is a smarter daily choice.  
 
@@ -176,9 +177,9 @@ Why Matcha Soda Fits Modern Life
 
 We’re all busy. We don’t always have time to whisk a bowl of matcha or line up for a latte. Matcha soda solves that problem:  
 
-- It’s **portable** — grab it on the go.  
-- It’s **consistent** — every can delivers the same quality and caffeine level.  
-- It’s **refreshing** — light fizz instead of heavy cream or sugar.  
+It’s **portable** — grab it on the go.  
+It’s **consistent** — every can delivers the same quality and caffeine level.  
+It’s **refreshing** — light fizz instead of heavy cream or sugar.  
 
 It’s the coffee alternative that actually works for real life.  
 
@@ -209,13 +210,14 @@ When I look back, switching from unhealthy sodas and over-caffeinated coffee to 
 
 It gave me:  
 
-- Steady, calm focus  
-- A refreshing drink I actually enjoy  
-- A ritual that feels good long-term  
+Steady, calm focus  
+A refreshing drink I actually enjoy  
+A ritual that feels good long-term  
 
 That’s why I built **Luma Matcha Soda** — not just as a product, but as a lifestyle shift. For anyone in NZ searching *matcha latte nz*, *matcha powder nz*, *matcha auckland*, or even wondering *what does matcha taste like*, my advice is simple:  
 
 **Try matcha soda. It just might change your day the way it changed mine.**  
+
 
 
 
