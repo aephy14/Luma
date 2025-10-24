@@ -487,6 +487,19 @@ p.blog-metadata {
   font-weight: 400;
   margin-bottom: 30px;
 }
+.post-section-wrapper ul,
+.post-section-wrapper ol {
+  font-size: 36px;
+  line-height: 48px;
+  font-weight: 400;
+  margin-bottom: 30px;
+  color: var(--text-primary-color);
+}
+.post-section-wrapper li {
+  font-size: 36px;
+  line-height: 48px;
+  margin-bottom: 15px;
+}
 .post_main_contains {
   margin-top: 50px;
 }
@@ -611,6 +624,7 @@ p.blog-metadata {
     grid-template-columns: 40px 266px;
   }
 }
+
 
 
 
