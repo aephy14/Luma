@@ -457,36 +457,6 @@ input::-webkit-inner-spin-button {
 p.blog-metadata {
   font-size: 20px;
   opacity: 0.5;
-  }
-.blog-container {
-  margin-bottom: 100px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-.blog-container h2 {
-  font-size: 96px;
-  line-height: 80px;
-  font-weight: 700;
-  letter-spacing: 0px;
-  color: var(--text-primary-color);
-}
-.blog-container p {
-  font-size: 64px;
-  line-height: 80px;
-  font-weight: 400;
-  letter-spacing: 0px;
-}
-.blog_post_url:hover {
-  text-decoration: none;
-}
-.blog-title {
-  color: var(--text-primary-color);
-  font-size: var(--heading-font-size);
-}
-p.blog-metadata {
-  font-size: 20px;
-  opacity: 0.5;
 }
 .post-section-wrapper h1 {
   font-size: 48px;
@@ -641,4 +611,5 @@ p.blog-metadata {
     grid-template-columns: 40px 266px;
   }
 }
+
 
