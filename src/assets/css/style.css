@@ -435,15 +435,15 @@ input::-webkit-inner-spin-button {
   gap: 10px;
 }
 .blog-container h2 {
-  font-size: 96px;
-  line-height: 80px;
+  font-size: 64px;
+  line-height: 60px;
   font-weight: 700;
   letter-spacing: 0px;
   color: var(--text-primary-color);
 }
 .blog-container p {
-  font-size: 64px;
-  line-height: 80px;
+  font-size: 48px;
+  line-height: 40px;
   font-weight: 400;
   letter-spacing: 0px;
 }
@@ -611,6 +611,7 @@ p.blog-metadata {
     grid-template-columns: 40px 266px;
   }
 }
+
 
 
 
