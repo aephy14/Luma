@@ -5,7 +5,7 @@
 }
 :root {
   --primary-color: #657323;
-  --text-primary-color: #c0c1ff;
+  --text-primary-color: #aba3f1;
   --secondary-color: #262e01;
   --font-family: "DM Sans";
   --heading-font-size: 64px;
@@ -624,6 +624,7 @@ p.blog-metadata {
     grid-template-columns: 40px 266px;
   }
 }
+
 
 
 
